@@ -1,0 +1,34 @@
+project:
+  type: website
+  post-render:
+    - node customize-search.js
+
+website:
+  title: "docs"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+  sidebar:
+    style: "docked"
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - section: "A guide"
+        contents:
+          - text: "Test"
+            href: guide/test.qmd
+          - text: "Server"
+            href: guide/server/index.qmd
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,66 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site  Test",
+    "crumbs": [
+      "Home",
+      "About"
+    ],
+    "keywords": "test"
+  },
+  {
+    "objectID": "guide/test.html",
+    "href": "guide/test.html",
+    "title": "Test for crumbs",
+    "section": "",
+    "text": "WTF",
+    "crumbs": [
+      "Home",
+      "A guide",
+      "Test"
+    ],
+    "keywords": []
+  },
+  {
+    "objectID": "guide/server/index.html",
+    "href": "guide/server/index.html",
+    "title": "Server",
+    "section": "",
+    "text": "Something here",
+    "crumbs": [
+      "Home",
+      "A guide",
+      "Server"
+    ],
+    "keywords": []
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "docs",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Home"
+    ],
+    "keywords": [
+      "API",
+      "REST",
+      "best practices"
+    ]
+  },
+  {
+    "objectID": "index.html#section-test",
+    "href": "index.html#section-test",
+    "title": "docs",
+    "section": "Section test",
+    "text": "Section test\nstuff here like API and whatever",
+    "crumbs": [
+      "Home"
+    ],
+    "keywords": []
+  }
+]
