@@ -4,7 +4,7 @@ project:
     - node customize-search.js
 
 website:
-  title: "docs"
+  title: "Posit Connect Documentation"
   navbar:
     left:
       - href: index.qmd

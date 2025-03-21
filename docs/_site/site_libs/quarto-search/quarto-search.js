@@ -682,7 +682,6 @@ const kFuseIndexOptions = {
     { name: "title", weight: 20 },
     { name: "section", weight: 20 },
     { name: "text", weight: 10 },
-    { name: "keywords", weight: 10 },
   ],
   ignoreLocation: true,
   threshold: 0.1,

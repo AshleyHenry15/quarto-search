@@ -9,7 +9,9 @@
       "Home",
       "About"
     ],
-    "keywords": "test"
+    "keywords": "test",
+    "product": "Ashley Product",
+    "isGuide": false
   },
   {
     "objectID": "guide/test.html",
@@ -22,7 +24,9 @@
       "A guide",
       "Test"
     ],
-    "keywords": []
+    "keywords": [],
+    "product": "Ashley Product",
+    "isGuide": false
   },
   {
     "objectID": "guide/server/index.html",
@@ -35,7 +39,9 @@
       "A guide",
       "Server"
     ],
-    "keywords": []
+    "keywords": [],
+    "product": "Ashley Product",
+    "isGuide": false
   },
   {
     "objectID": "index.html",
@@ -50,7 +56,9 @@
       "API",
       "REST",
       "best practices"
-    ]
+    ],
+    "product": "Ashley Product",
+    "isGuide": false
   },
   {
     "objectID": "index.html#section-test",
@@ -61,6 +69,8 @@
     "crumbs": [
       "Home"
     ],
-    "keywords": []
+    "keywords": [],
+    "product": "Ashley Product",
+    "isGuide": false
   }
 ]
